@@ -2,7 +2,7 @@
 Exercício de API Gateway da disciplina API e Web Services (AWS), Prof: Marco Mendes; Curso: Desenvolvimento Web Full Stack
 
 #### Implementação de 3 serviços autônomos:  
-1. Cadastro de produtos (CRUD) - NODE.JS - rodando na porta 2000
+1. Cadastro de produtos (CRUD) - NODE.JS - rodando na porta 2000  
 To run the server, run:
     ```
     npm start
@@ -32,7 +32,8 @@ To run the server, run:
 
 ### To access web services:  
 
-* Gateway Público
+* Gateway Público  
+  ---- PEDIDOS -------------------------------------------------------
   * Recupera todos os pedidos:
     ```
     GET http://localhost:5000/pedidos/api/values
@@ -41,8 +42,19 @@ To run the server, run:
     ```
     GET http://localhost:5000/pedidos/api/values/{idPedido}
     ```
+  ---- CARRINHO -------------------------------------------------------    
+  * Recupera todos os produtos do carrinho:
+    ```
+    GET http://localhost:5000/carrinho/api/values
+    ```
+  * Recupera um pedido específico do carrinho:
+    ```
+    GET http://localhost:5000/carrinho/api/values/{idPedido}
+    ```
+   ---- PRODUTOS------------------------------------------------------- 
     
-* Gateway Privado
+* Gateway Privado  
+  ---- PEDIDOS -------------------------------------------------------
   * Recupera todos os pedidos:
     ```
     GET http://localhost:8000/pedidos/api/values
@@ -62,6 +74,7 @@ To run the server, run:
   * Operação para deletar um pedido:
     ```
     DELETE http://localhost:8000/pedidos/api/values/{idPedido}
+    ```
   * Operação para pagar um pedido:
     ```
     POST http://localhost:8000/pedidos/api/pagamentos/{idPedido}
@@ -70,4 +83,26 @@ To run the server, run:
         ```
         POST http://localhost:8000/pedidos/api/cancelamentos/{idPedido}
         ```   
+   ---- CARRINHO -------------------------------------------------------    
+  * Recupera todos os produtos do carrinho:
+    ```
+    GET http://localhost:8000/carrinho/api/values
+    ```
+  * Recupera um pedido específico do carrinho:
+    ```
+    GET http://localhost:8000/carrinho/api/values/{idPedido}
+    ```
+  * Operação para adicionar um produto no carrinho:
+    ```
+    POST http://localhost:8000/carrinho/api/values
+    ```
+  * Operação para alterar um produto no carrinho:
+    ```
+    PUT http://localhost:8000/carrinho/api/values/{idPedido}
+    ```
+  * Operação para deletar um produto no carrinho:
+    ```
+    DELETE http://localhost:8000/carrinho/api/values/{idPedido}
+    ```
+   ---- PRODUTOS------------------------------------------------------- 
     
