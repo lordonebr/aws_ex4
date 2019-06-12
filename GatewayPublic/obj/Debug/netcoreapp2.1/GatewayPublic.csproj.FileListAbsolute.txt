@@ -1,0 +1,28 @@
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.deps.json
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.runtimeconfig.json
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.runtimeconfig.dev.json
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.dll
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.pdb
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.csprojAssemblyReference.cache
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.csproj.CoreCompileInputs.cache
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.RazorAssemblyInfo.cache
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.RazorAssemblyInfo.cs
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.AssemblyInfoInputs.cache
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.AssemblyInfo.cs
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.RazorTargetAssemblyInfo.cache
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.dll
+C:\Users\1208719\Documents\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.pdb
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.deps.json
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.runtimeconfig.json
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.runtimeconfig.dev.json
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.dll
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\bin\Debug\netcoreapp2.1\GatewayPublic.pdb
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.csprojAssemblyReference.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.csproj.CoreCompileInputs.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.RazorAssemblyInfo.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.RazorAssemblyInfo.cs
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.AssemblyInfoInputs.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.AssemblyInfo.cs
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.RazorTargetAssemblyInfo.cache
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.dll
+C:\Users\andre.santos\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 04\ex4 - parte2\GatewayPublic\obj\Debug\netcoreapp2.1\GatewayPublic.pdb

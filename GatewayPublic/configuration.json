@@ -1,0 +1,77 @@
+{
+    "ReRoutes": [
+      {
+        "DownstreamPathTemplate": "/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 4000
+          }
+        ],
+        "UpstreamPathTemplate": "/pedidos/",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 4000
+          }
+        ],
+        "UpstreamPathTemplate": "/pedidos/{everything}",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3000
+          }
+        ],
+        "UpstreamPathTemplate": "/carrinho/",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3000
+          }
+        ],
+        "UpstreamPathTemplate": "/carrinho/{everything}",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 2000
+          }
+        ],
+        "UpstreamPathTemplate": "/produtos/",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 2000
+          }
+        ],
+        "UpstreamPathTemplate": "/produtos/{everything}",
+        "UpstreamHttpMethod": [ "Get" ]
+      }
+    ],
+    "GlobalConfiguration": { }
+  }
