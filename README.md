@@ -51,22 +51,22 @@ To run the server, run:
     ```
     GET http://localhost:8000/pedidos/api/values/{idPedido}
     ```
- * Operação para criar um pedido (JSON necessário, ex: "{teste : teste}"):
+  * Operação para criar um pedido (JSON necessário, ex: "{teste : teste}"):
     ```
     POST http://localhost:8000/pedidos/api/values
     ```
- * Operação para alterar um pedido (JSON necessário):
+  * Operação para alterar um pedido (JSON necessário):
     ```
     PUT http://localhost:8000/pedidos/api/values/{idPedido}
     ```
- * Operação para deletar um pedido:
+  * Operação para deletar um pedido:
     ```
     DELETE http://localhost:8000/pedidos/api/values/{idPedido}
- * Operação para pagar um pedido:
+  * Operação para pagar um pedido:
     ```
     POST http://localhost:8000/pedidos/api/pagamentos/{idPedido}
     ```    
-  * Operação para cancelar um pedido:
+   * Operação para cancelar um pedido:
     ```
     POST http://localhost:8000/pedidos/api/cancelamentos/{idPedido}
     ```   
