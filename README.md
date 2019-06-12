@@ -18,7 +18,7 @@ To run the server, run:
     dotnet run
     ```
 
-#### Gateways:
+#### Implementação de 2 Gateways:
 1. Gateway Público (permitido apenas GET) - .NET Core com Ocelot - rodando na porta 5000  
     To run the server, run:
     ```
@@ -52,6 +52,14 @@ To run the server, run:
     GET http://localhost:5000/carrinho/api/values/{idPedido}
     ```
    ---- PRODUTOS------------------------------------------------------- 
+   * Recupera todos os produtos:
+    ```
+    GET http://localhost:5000/produtos/api/values
+    ```
+  * Recupera um pedido específico:
+    ```
+    GET http://localhost:5000/produtos/api/values/{idPedido}
+    ```
     
 * Gateway Privado  
   ---- PEDIDOS -------------------------------------------------------
@@ -105,4 +113,25 @@ To run the server, run:
     DELETE http://localhost:8000/carrinho/api/values/{idPedido}
     ```
    ---- PRODUTOS------------------------------------------------------- 
+   * Recupera todos os produtos:
+    ```
+    GET http://localhost:8000/produtos/api/values
+    ```
+  * Recupera um pedido específico:
+    ```
+    GET http://localhost:8000/produtos/api/values/{idPedido}
+    ```
+  * Operação para adicionar um produto:
+    ```
+    POST http://localhost:8000/produtos/api/values
+    ```
+  * Operação para alterar um produto:
+    ```
+    PUT http://localhost:8000/produtos/api/values/{idPedido}
+    ```
+  * Operação para deletar um produto:
+    ```
+    DELETE http://localhost:8000/produtos/api/values/{idPedido}
+    ```
     
+
