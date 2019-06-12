@@ -2,29 +2,29 @@
 Exercício de API Gateway da disciplina API e Web Services (AWS), Prof: Marco Mendes; Curso: Desenvolvimento Web Full Stack
 
 #### Implementação de 3 serviços autônomos:  
-1. Cadastro de produtos (CRUD) - NODE.JS  
+1. Cadastro de produtos (CRUD) - NODE.JS - rodando na porta 2000
 To run the server, run:
     ```
     npm start
     ```
-2. Gestão de um carrinho de compra (CRUD) - NODE.JS  
+2. Gestão de um carrinho de compra (CRUD) - NODE.JS - rodando na porta 3000  
 To run the server, run:
     ```
     npm start
     ```
-3. Gestão de pedidos (Pagamento de pedidos, cancelamento de pedidos, listagem de pedidos) - .NET Core  
+3. Gestão de pedidos (Pagamento de pedidos, cancelamento de pedidos, listagem de pedidos) - .NET Core - rodando na porta 4000  
     To run the server, run:
     ```
     dotnet run
     ```
 
 #### Gateways:
-1. Gateway Público (permitido apenas GET) - .NET Core com Ocelot  
+1. Gateway Público (permitido apenas GET) - .NET Core com Ocelot - rodando na porta 5000  
     To run the server, run:
     ```
     dotnet run
     ```
-2. Gateway Privado (permitido GET, POST, PUT, DELETE) - .NET Core com Ocelot  
+2. Gateway Privado (permitido GET, POST, PUT, DELETE) - .NET Core com Ocelot - rodando na porta 8000  
     To run the server, run:
     ```
     dotnet run
@@ -67,7 +67,7 @@ To run the server, run:
     POST http://localhost:8000/pedidos/api/pagamentos/{idPedido}
     ```    
    * Operação para cancelar um pedido:
-    ```
-    POST http://localhost:8000/pedidos/api/cancelamentos/{idPedido}
-    ```   
+        ```
+        POST http://localhost:8000/pedidos/api/cancelamentos/{idPedido}
+        ```   
     
