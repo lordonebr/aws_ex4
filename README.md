@@ -1,9 +1,9 @@
 # aws_ex4
 Exercício de API Gateway da disciplina API e Web Services (AWS), Prof: Marco Mendes; Curso: Desenvolvimento Web Full Stack
 
-Autores: 
-André Guilherme de Almeida Santos
-Lucas de Paula Barbosa
+* Autores: 
+    * André Guilherme de Almeida Santos  
+    * Lucas de Paula Barbosa
 
 #### Implementação de 3 serviços autônomos:  
 1. Cadastro de produtos (CRUD) - NODE.JS - rodando na porta 2000  
